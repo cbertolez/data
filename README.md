@@ -75,7 +75,9 @@ Tendencias en medios de pago.
 
 💰 Imprescindible para análisis financiero y control de rentabilidad.
 
-📊 6. Dashboard de Stock
-Este tablero permite monitorear de forma integral el estado del inventario de productos, enfocado en un rubro específico. Está diseñado para facilitar la toma de decisiones operativas respecto al reabastecimiento, control de stock y rotación de productos.
+📊 6. Dashboard de Stock.
+
+Este tablero permite monitorear de forma integral el estado del inventario de productos, enfocado en un rubro específico. 
+Está diseñado para facilitar la toma de decisiones operativas respecto al reabastecimiento, control de stock y rotación de productos.
 
 
