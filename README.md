@@ -80,4 +80,13 @@ Tendencias en medios de pago.
 Este tablero permite monitorear de forma integral el estado del inventario de productos, enfocado en un rubro específico. 
 Está diseñado para facilitar la toma de decisiones operativas respecto al reabastecimiento, control de stock y rotación de productos.
 
+🎯 Objetivo del tablero
+Ofrecer una vista clara y accionable del stock, ayudando a:
 
+Detectar productos agotados o en riesgo de agotamiento.
+
+Identificar sobrestock para evitar costos innecesarios.
+
+Evaluar la rotación de artículos (medida con “días sin venta”).
+
+Priorizar acciones de compra, redistribución o promoción.
