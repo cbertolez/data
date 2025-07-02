@@ -90,3 +90,68 @@ Identificar sobrestock para evitar costos innecesarios.
 Evaluar la rotación de artículos (medida con “días sin venta”).
 
 Priorizar acciones de compra, redistribución o promoción.
+
+
+📊 7. Tablero: Compras
+Objetivo: Analizar el volumen de compras realizadas por mes, con detalle por proveedor, artículo y precio.
+
+Componentes clave:
+
+Gráfico de barras con participación por proveedor (en monto comprado).
+
+
+Utilidad:
+
+Identificar proveedores más relevantes por monto comprado.
+
+Comparar volúmenes mensuales de compras.
+
+Evaluar evolución de precios y comportamiento de compra en el tiempo.
+
+📊 8.Tablero: Proveedores
+Objetivo: Visualizar el historial de compras desglosado por proveedor, rubro, subrubro y artículo, mes a mes.
+
+Componentes clave:
+
+Tabla jerárquica con desagregación:
+
+Proveedor → Rubro → Subrubro → Artículo.
+
+
+Precio, cantidad, monto comprado y número de compras.
+
+Filtros aplicables por sucursal, proveedor, rubro, subrubro, artículo y año.
+
+Utilidad:
+
+Auditar compras históricas por proveedor.
+
+Detectar patrones de abastecimiento o interrupciones en la compra de productos clave.
+
+Visualizar proveedores frecuentes por tipo de producto.
+
+
+📊 9. Tablero: Informe de Compras
+Objetivo: Analizar en detalle las compras de un artículo específico, con foco en cantidades, precios y evolución temporal.
+
+Componentes clave:
+
+KPIs superiores:
+
+Total de artículos, cantidad facturada/devuelta, monto comprado, cantidad de transacciones y proveedores.
+
+Tabla detallada por rubro, subrubro y artículo:
+
+Último precio de compra, monto comprado, porcentaje sobre total, cantidad de proveedores y transacciones.
+
+Gráfico de línea con evolución de precios por mes.
+
+Utilidad:
+
+Evaluar variaciones de precio a lo largo del tiempo.
+
+Medir el peso de un artículo sobre el total comprado.
+
+Estudiar la frecuencia de compras y dependencia de un proveedor específico.
+
+
